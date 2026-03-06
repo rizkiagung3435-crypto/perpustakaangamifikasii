@@ -1,0 +1,1 @@
+a:6:{s:9:"pk_column";s:9:"id_pinjam";s:18:"tanggal_pinjam_col";s:14:"tanggal_pinjam";s:19:"tanggal_kembali_col";s:15:"tanggal_kembali";s:11:"id_buku_col";s:7:"id_buku";s:10:"status_col";s:6:"status";s:12:"column_names";a:7:{i:0;s:9:"id_pinjam";i:1;s:7:"id_user";i:2;s:7:"id_buku";i:3;s:14:"tanggal_pinjam";i:4;s:15:"tanggal_kembali";i:5;s:6:"status";i:6;s:10:"created_at";}}
